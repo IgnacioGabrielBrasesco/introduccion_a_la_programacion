@@ -1,4 +1,4 @@
-//crear una cuenta inicializada con cero pesos, donde me pida que si el monto de la cuenta es 0 no puedo retirar   
+//Agregarle a este codigo cuentas de usuarios. Crear nueva cuenta y cuentas existentes con objetos y push  
 
 let nombreUsuario = prompt("Ingrese su nombre de usuario: ");
 let montoDisponible = 0;
